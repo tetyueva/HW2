@@ -1,1 +1,28 @@
-# HW2
+# HW2<TEI> 
+    <teiHeader>  
+        <fileDesc>
+            <titleStmt>
+               <title>Part 1</title>
+            </titleStmt>
+            <respStmt>
+                <persName>тетюева мария</persName>
+                <resp>Разметка прямой речи</resp>
+            </respStmt>
+         </fileDesc>
+     </teiHeader>
+      <text><speech>
+	  <said type="direct" aloud="true"> -А Искендер-бек?</said>
+	  </speech></text>
+	  <text><speech> 
+	  <author_comment>- <speech_verb> сказал</speech_verb> кто-то в толпе.</author_comment>
+      <text><speech>
+	  <said type="direct" aloud="true"> В самом деле!</said>
+	  </speech></text>
+	  <text><speech> 
+	  <author_comment> - <speech_verb> подхватили</speech_verb> многие голоса.</author_comment>
+	  <text><speech>
+	  <said type="direct" aloud="true"> - А Искендер-бек-то на что? Да как это мы его забыли, как пропустили розу между цветами, сокола между птицами? Аллах, аллах! Или у нас жар-то весь мозг из головы вытопил? Это странно! Это непостижимо! Это удивительно!</said>
+      </speech></text>
+	 </text>
+</TEI>
+	
